@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "starting build"
-sleep 60s
+sleep 40s
 echo "done"
